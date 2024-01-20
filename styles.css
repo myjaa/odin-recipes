@@ -1,0 +1,13 @@
+*{font-family:'Times New Roman', Times, serif}
+body{
+  background-image:linear-gradient(to bottom right, rgb(255,0,0), rgb(255, 128, 0),rgb(255,255,0),rgb(0,255,0),rgb(150,150,255),rgb(0,0,255),rgb(95,0,255));
+}
+.h1{
+  font-weight:900;
+  color: rgb(255,255,255);
+  background-color: rgb(255,0,0);
+}
+#linklist {
+  background-color: rgb(255, 120, 0);
+  font-weight:800;
+}
